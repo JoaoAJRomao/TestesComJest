@@ -1,5 +1,5 @@
  # Entregável 3
- ## pré-requisitos
+ ## Pré-requisitos
  É necessário que os seguintes sistemas estejam instalados para a execução do projeto
  - Node(`v.12+`)
  - NPM(`v.6+`)
